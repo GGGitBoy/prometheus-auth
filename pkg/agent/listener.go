@@ -13,7 +13,7 @@ import (
 
 const (
 	rancherUserHeaderKey   = "X-RANCHER-USER"
-	rancherGroupHeaderKey  = "X-RANCHER-GROUP"
+	rancherGroupHeaderKey  = "X-Rancher-Group"
 	authorizationHeaderKey = "Authorization"
 )
 
